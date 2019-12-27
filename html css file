@@ -1,3 +1,7 @@
+HTML FILE........................
+
+
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -115,3 +119,44 @@
 
     
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+CSS................
+.first
+{color : rgba(58, 151, 204, 0.753);
+
+}
+#menu
+{
+    text-align:right;
+     color: white;
+    
+     text-align : right;
+
+}
+#menu li{
+    display : inline;
+    font-size : 30px;
+    padding-bottom: 6em;
+}
+#menu1
+{
+    background-color: black;
+    /*width : 60px;*/
+    height:  60px;;
+}
+#lines li 
+{
+display: inline;
+}
+
